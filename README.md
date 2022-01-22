@@ -1,5 +1,5 @@
 # Michegan-University - Python4EVER
-This repo contains some files developed in Python specialization along 2021.
+This repo contains some files developed at Michegan Specialization along 2021.
 
 ### ***Content
 
