@@ -15,7 +15,7 @@ This repo contains some files developed in Python specialization along 2021.
 ### ***Prereqs
 
 #### Software
-To run these codes people will need Python > 3.0 already installed and a GUI, or some similar program, like Jupiter Notebook, Atom or Sublime Text.
+To run these codes people will need Python > 3.0 already installed and a terminal, or some similar program, like Jupiter Notebook, Atom or Sublime Text.
 
 #### Knownledge
 Have some background in strings, data structure and functions.
